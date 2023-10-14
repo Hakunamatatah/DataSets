@@ -1,4 +1,4 @@
-Numero de viajeros,Edad_media_viajeros,cantidad de niños,País_origen,Ingreso Familiar,Motivo Viaje,Presupuesto Viaje,Fecha Viaje,País Destino
+Numero_viajeros,Edad_media_viajeros,cantidad_niños,Pais_origen,Ingreso_Familiar,Motivo_Viaje,Presupuesto_Viaje,Fecha_Viaje,Pais_Destino
 3,40,3,Chile,2786,Negocios,1904,19/03/2020,Brasil
 2,37,2,España,2625,Ocio,2258,15/09/2021,Estados Unidos
 3,38,1,México,2198,Otros,1298,08/01/2023,España
